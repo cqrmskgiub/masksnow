@@ -51,4 +51,4 @@ After [signing up as a volunteer](http://masksnow.org/volunteer-signup), your st
 
 ## I don't know how to sew, how can I help?
 
-We also have a need for volunteers to make phone calls and distribute masks. If you are interested in volunteering behind-the-scenes, please send an email with your interests and skill set to: [volunteer@masksnow.org](volunteer@masksnow.org)
+We also have a need for volunteers to make phone calls and distribute masks. If you are interested in volunteering behind-the-scenes, please send an email with your interests and skill set to: [volunteer@masksnow.org](mailto:volunteer@masksnow.org)
