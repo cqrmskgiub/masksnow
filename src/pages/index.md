@@ -1,25 +1,23 @@
 ---
 templateKey: index-page
-title: What is RosieSews?
+title: #MasksNOW | The Masks Now Coalition
 ---
-In an effort to help curb medical supply shortages as we battle COVID19, we’re requesting seamstresses, makers and manufacturers to make masks and other supplies for use by medical professionals, at-risk community members and essential workers including postal works, grocery store workers, manufacturing personnel (and more).
+## What is The Masks Now Coalition?
 
-We are attempting to attack with a two-pronged approach: Homemade Small Batch and Mass Production.
+The Masks Now Coalition is a grassroots movement of volunteers and their groups, led by nineteen organizers directing over 1,000 volunteers who banded together in response to the urgent national shortage in personal protective equipment (PPE) brought on by the novel coronavirus outbreak in America. 
 
-## Homemade Small Batch
+We’ve got volunteers in every state, Washington D.C., and Puerto Rico ready to answer the call from over 125 hospitals in 28 states which have made public appeals for homesewn masks.
 
-Homemade masks are not preferred to professional, medical grade n95 respirators or surgical masks. However, the CDC does state homemade masks may be considered as a last resort (“better than no protection”). We are saddened to report that many medical personnel are already experiencing shortages so severe they are turning to the community to help make masks.
+In an effort to help curb medical supply shortages as we battle COVID-19, we are requesting sewists to make masks and other supplies for use by patients, healthcare workers, at-risk community members, and essential workers, including postal workers, grocery store workers, manufacturing personnel, and more.
 
-## Mass Production
+We are saddened to report that many medical personnel are already experiencing shortages so severe they are turning to the community to help make masks. But every single mask we produce frees up a manufactured mask for clinical use.
 
-We’re working on converting maker spaces across the nation into supply production sites. If you have contacts with medical fabric supply, laser die cut machines or other seemingly helpful resources, please post on our [facebook group](https://www.facebook.com/groups/837899896730511/) or send a message to [rosiesewscovid19@gmail.com](mailto:rosiesewscovid19@gmail.com)
+In fact, the Center for Disease Control says that homemade masks may be considered as a last resort because they’re “better than no protection.” The Food & Drug Administration has provided emergency guidance to enable groups like ours which are not making medical masks to expand the number of face masks available. 
 
-## Donate
-
-[SeattleMakers](https://www.seattlemakers.org/) has stepped up as the first maker space to convert to a supply manufacturer. They are accepting donations which will purchase raw materials and cover logistics costs associated with shipping.
+That’s why we’re looking for volunteers to sew masks and handle the logistics of distribution in every state, DC, and Puerto Rico. 
 
 ## Connect
 
-Join us and help spread the word on [Facebook](https://www.facebook.com/groups/837899896730511/) or[Twitter](https://twitter.com/rosiesewsorg)
+Join us and help spread the word on [Facebook](https://www.facebook.com/groups/837899896730511/) or[Twitter](https://twitter.com/masksnoworg)
 
 Public Relations Contact: [publicrelations@masksnow.org](mailto:publicrelations@masksnow.org)
