@@ -13,20 +13,20 @@ Our goal is to give each citizen the ability to take control of their communityâ
 
 ## Coalition partners: 
 
-Democratic Coalition 
-Rosie Sews
-Million Mask Mayday
-Created for Crisis
-Lawyers for Good Government
-CoronavirusArmy
+Democratic Coalition  
+Rosie Sews  
+Million Mask Mayday  
+Created for Crisis  
+Lawyers for Good Government  
+Coronavirus Army
 
 ## The Masks Now Coalitionâ€™s six-person steering committee:
 
-Francey Youngberg
-Grant Stern
-Jodi Murray
-Dr. Kelly Sennholz
-Rachel Emard
+Francey Youngberg  
+Grant Stern  
+Jodi Murray  
+Dr. Kelly Sennholz  
+Rachel Emard  
 Scott Dworkin
 
 For interviews, please contact [publicrelations@masksnow.org](mailto:publicrelations@masksnow.org)
