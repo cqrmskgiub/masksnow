@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: #MasksNOW | The Masks Now Coalition #
+title: \#MasksNOW | The Masks Now Coalition 
 ---
 ## What is The Masks Now Coalition?
 
